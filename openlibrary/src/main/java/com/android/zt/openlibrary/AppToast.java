@@ -28,6 +28,11 @@ public class AppToast {
         }, delay);
     }
 
+    public synchronized static void show(int strResId, int delay) {
+        String content = mContext.getResources().getString(strResId);
+        show(content,delay);
+    }
+
     public synchronized static void show(String content) {
         String text = String.format(" %1$s ", content);
 

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppToastUtil</string>
+    <string name="test_str">测试 AppToast success... o(*￣︶￣*)o </string>
 </resources>

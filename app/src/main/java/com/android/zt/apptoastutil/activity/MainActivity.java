@@ -29,5 +29,8 @@ public class MainActivity extends AppCompatActivity {
     @OnClick(R.id.tv_show_toast)
     public void onViewClicked() {
         AppToast.show("测试 AppToast success... o(*￣︶￣*)o ");
+//        AppToast.show(R.string.test_str);
+//        AppToast.show("测试 AppToast success... o(*￣︶￣*)o ",2000);
+//        AppToast.show(R.string.test_str,2000);
     }
 }
