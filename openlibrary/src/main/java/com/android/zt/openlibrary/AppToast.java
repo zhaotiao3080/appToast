@@ -6,7 +6,7 @@ import android.widget.Toast;
 
 public class AppToast {
     /**
-     * 自定义吐司
+     * 自定义吐司工具
      */
     private final static int DURATION = 2500;
     private static Toast _toast;
