@@ -30,5 +30,5 @@ dependencies {
     implementation 'com.android.support:multidex:1.0.3'
     implementation 'com.jakewharton:butterknife:7.0.1'
 //    implementation project(':openlibrary')
-    implementation 'com.github.zhaotiao3080:AppToast:V1.0.1'
+    implementation 'com.github.zhaotiao3080:appToast:1.0.2'
 }
