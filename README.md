@@ -14,7 +14,7 @@
   		}
   	}
 
- 2. Add the dependency  在使用的module 的build.gradle文件中添加如下依赖
+2.Add the dependency  在使用的module 的build.gradle文件中添加如下依赖
 
   	dependencies {
   	        implementation 'com.github.zhaotiao3080:appToast:1.0.2'
